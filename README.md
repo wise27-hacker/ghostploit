@@ -28,4 +28,4 @@ chmod +x ghostploit.sh
 
 
 
-bash ghostsploit.sh
+bash ghostploit.sh
