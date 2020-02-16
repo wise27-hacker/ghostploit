@@ -1,0 +1,2 @@
+# ghostploit
+easy payload creator 
