@@ -257,8 +257,8 @@ echo                                SYSTEM FAILURE
 echo        Unable to remove virus .
 echo
 echo                                SHUTTING DOWN
-echo        A rabbit replicates till it overloads a file,
-echo        then it spreads like cancer.
+echo        LOADING......................................
+echo        .
 echo -e "\e[31m[Owned by 9j4ghosts / Please wait...\e[31m]"
 echo -ne '#####                     (33%)\r'
 sleep 3
